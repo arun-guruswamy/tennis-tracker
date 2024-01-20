@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+ultralytics 
+opencv-python
+cvzone
+tensorflow
+tensorflowjs
+mediapipe
+numpy
+
